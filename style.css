@@ -1,0 +1,39 @@
+body{
+    padding: 40px;
+    color: brown;
+    background-color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+}
+header img{
+    padding: 5px;
+    width: 160px;
+    border-radius: 38%;
+    border: 12px solid pink;
+}
+footer img{
+    width: 50px;
+    padding: 15px;
+}
+footer{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    text-align: center;
+    width: 100%;
+    height: 90px;
+}
+.p{
+    display: flex;
+    justify-content: center;
+}
+p{
+    background-color: pink;
+    border-style: groove;
+    border-radius: 8%;
+    padding: 1%;
+    width: 20%;
+}
+h2{
+    font-family: monospace;
+}
