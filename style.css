@@ -1,14 +1,14 @@
 body{
-    padding: 20px;
+    padding: 3%;
     color: brown;
     background-color: whitesmoke;
     font-family: 'Times New Roman', Times, serif;
 }
 header img{
     padding: 5px;
-    width: 160px;
+    width: 120px;
     border-radius: 38%;
-    border: 12px solid pink;
+    border: 6px solid pink;
 }
 footer img{
     width: 50px;
@@ -20,20 +20,20 @@ footer{
 }
 .container{
     text-align: center;
-    width: 100%;
-    height: 100px;
 }
 .p{
-    display: flex;
-    justify-content: center;
+    background-color: pink;
+    border-radius: 8%;
+    border-style: groove;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 p{
-    background-color: pink;
-    border-style: groove;
-    border-radius: 8%;
-    padding: 1%;
-    width: 30dvh;
+    font-family: monospace;
+    justify-content: center;
 }
 h2{
     font-family: monospace;
+}
+.flor{
 }
